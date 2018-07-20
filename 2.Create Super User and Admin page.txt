@@ -73,3 +73,7 @@ Superuser created successfully.
 Performing system checks...
 
 
+(django-env) (base) C:\Users\USER\Desktop\django-env\new_django2>python manage.py startapp home    
+
+                       #make a home page to link up app files.
+
